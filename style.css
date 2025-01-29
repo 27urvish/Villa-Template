@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+.text-brown {
+    color: brown;
+}
+
+
+.feature-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.icon {
+    width: 40px;
+    height: 40px;
+}
+
+.backgroundimg {
+    background-image: url("OIP.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.video a {
+    text-decoration: none;
+}
+
+.info-table .list-group-item {
+    background-color: #f8f9fa;
+    margin-bottom: 0.5rem;
+}
+
+.footer{
+    background-color: #A6CDC6;
+}
+
+.li{
+    text-decoration: none;
+}
